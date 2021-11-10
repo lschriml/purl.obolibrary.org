@@ -9,6 +9,7 @@ products:
 - disdriv.owl: https://github.com/DiseaseOntology/DiseaseDriversOntology/blob/main/src/ontology/releases/disdriv.owl
 
 term_browser: ontobee
+
 example_terms:
 - DISDRIV_0000002
 
